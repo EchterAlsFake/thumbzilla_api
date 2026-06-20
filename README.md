@@ -1,9 +1,9 @@
-<h1 align="center">RedTube API</h1>
+<h1 align="center">Thumbzilla API</h1>
 
 <div align="center">
-    <a href="https://pepy.tech/project/redtube_api"><img src="https://static.pepy.tech/badge/redtube_api" alt="Downloads"></a>
-    <a href="https://badge.fury.io/py/redtube_api"><img src="https://badge.fury.io/py/redtube_api.svg" alt="PyPI version" height="18"></a>
-    <a href="https://echteralsfake.me/ci/redtube_api/badge.svg"><img src="https://echteralsfake.me/ci/redtube_api/badge.svg" alt="API Tests"/></a>
+    <a href="https://pepy.tech/project/thumbzilla_api"><img src="https://static.pepy.tech/badge/thumbzilla_api" alt="Downloads"></a>
+    <a href="https://badge.fury.io/py/thumbzilla_api"><img src="https://badge.fury.io/py/thumbzilla_api.svg" alt="PyPI version" height="18"></a>
+    <a href="https://echteralsfake.me/ci/thumbzilla_api/badge.svg"><img src="https://echteralsfake.me/ci/thumbzilla_api/badge.svg" alt="API Tests"/></a>
 </div>
 
 <br>
@@ -50,7 +50,7 @@ This API has been tested and confirmed working on:
 # Quickstart
 
 > [!NOTE]
-> Full Documentation: [here](https://github.com/EchterAlsFake/API_Docs/blob/master/Porn_APIs/redtube_api.md)
+> Full Documentation: [here](https://github.com/EchterAlsFake/API_Docs/blob/master/Porn_APIs/thumbzilla_api.md)
 
 ```python
 import asyncio
@@ -72,7 +72,7 @@ if __name__ == "__main__":
 ```
 
 # License
-RedTube API uses LGPLv3. See the `LICENSE` file.
+Thumbzilla API uses LGPLv3. See the `LICENSE` file.
 
 # Donations
 - https://paypal.me/EchterAlsFake
